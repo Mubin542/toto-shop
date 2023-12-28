@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://i.ibb.co/6nNMSgr/logo.png"  width="200"  />
-</p>
+</p> 
 
 <h3 align="center">TOTO SHOP is a simple e-commerce website</h3>
  
